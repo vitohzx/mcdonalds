@@ -1,0 +1,126 @@
+
+
+.img1 {
+    margin-left: 30%;
+    padding: 10%;
+}
+
+.centro {
+    align-items: center;
+    text-align: center;
+}
+
+.fam {
+    margin-right: 3%;
+}
+
+.fundo {
+    background-color: rgb(255, 196, 0);
+    max-width: 110%;
+
+}
+
+.barra {
+    background-color: white;
+width: 100%;
+}
+
+.texto {
+    font-size: 500%;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    margin-top: 3%;
+    
+}
+
+span {
+    color: red;
+}
+
+ .bord {
+    border: solid;
+ }
+
+ .hambu {
+    max-width: 110%;
+    width: 213vh;
+    
+ }
+
+ .pag {
+    max-width: 100%;
+ }
+
+ .botão {
+    margin-left: 38%;
+ }
+
+ .card {
+    margin-top: 10%;
+ }
+
+ .ajuste {
+    margin-top: 11%;
+ }
+
+.centro h5 {
+    font-weight: bold;
+}
+
+.ajuste2 {
+    margin-top: 5%;
+}
+
+.botão1 {
+    margin-left: 43%;
+}
+
+.botão2 {
+    margin-left: 43%;
+}
+
+.botão3 {
+    margin-left: 31%;
+}
+
+.ajuste5 {
+    margin-top: 19%;
+}
+
+.ajuste6 {
+    margin-top: 28%;
+}
+
+.central {
+   margin-left: 6%;
+}
+
+footer img {
+    max-width: 110%;
+    margin-top: 7%;
+}
+
+* {
+    max-width: 100%;
+}
+
+footer p {
+    margin-top: 1px;
+    color: rgb(117, 117, 117);
+}
+
+#imgf {
+    max-width: 110%;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+}
+
+
+nav {
+    width: 8000px;
+}
+
+
+
