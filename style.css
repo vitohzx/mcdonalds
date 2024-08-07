@@ -99,6 +99,9 @@ span {
 footer img {
     max-width: 110%;
     margin-top: 7%;
+    text-align: center;
+    align-items: center;
+    
 }
 
 * {
@@ -118,9 +121,10 @@ footer p {
 }
 
 
-nav {
+/* nav {
     width: 8000px;
-}
+} */
+
 
 
 
