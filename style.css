@@ -44,7 +44,8 @@ span {
 
  .hambu {
     max-width: 110%;
-    width: 213vh;
+    width: 101%;
+    /* border: 4px solid; */
     
  }
 
@@ -97,15 +98,18 @@ span {
 }
 
 footer img {
-    max-width: 110%;
+    max-width: 101%;
     margin-top: 7%;
     text-align: center;
     align-items: center;
+    width: 101%;
     
 }
 
 * {
-    max-width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
 }
 
 footer p {
@@ -121,10 +125,11 @@ footer p {
 }
 
 
-/* nav {
-    width: 8000px;
-} */
 
 
+footer {
+    width: 100%;
+    /* border: 4px solid; */
+}
 
 
